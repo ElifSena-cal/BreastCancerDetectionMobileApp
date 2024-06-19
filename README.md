@@ -4,7 +4,7 @@ This mobile application is part of a project focused on diagnosing breast cancer
 
 ## Repository
 
-This mobile application is a part of a larger project. For more information about the complete project, including the desktop application and API, please refer to the [main repository](https://github.com/ElifSena-cal/BreastCancer).
+This mobile application is a part of a larger project. For more information about the complete project, including the desktop application and API, please refer to the [main repository]([https://github.com/ElifSena-cal/BreastCancer](https://github.com/ElifSena-cal/BreastCancerDiagnosis).
 
 ## Features
 
